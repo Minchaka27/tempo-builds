@@ -17,6 +17,13 @@
       "tintColor": "#22b0e3",
       "versions": [
         {
+          "version": "2026.06.22",
+          "date": "2026-06-22",
+          "localizedDescription": "Release v2026.06.22.",
+          "downloadURL": "https://github.com/Minchaka27/tempo-builds/releases/download/v2026.06.22/TempoTracker-1.0.ipa",
+          "size": 6381568
+        },
+        {
           "version": "1.0.1",
           "date": "2026-06-22",
           "localizedDescription": "Release v1.0.1.",
