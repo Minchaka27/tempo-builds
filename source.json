@@ -2,7 +2,7 @@
   "name": "TempoTracker",
   "identifier": "com.chapelle.tempo-source",
   "subtitle": "Builds auto de TempoTracker",
-  "description": "Source AltStore pour les releases unsigned de TempoTracker (re-signé par LiveContainer sur l'appareil).",
+  "description": "Source AltStore pour les releases unsigned de TempoTracker (re-sign\u00e9 par LiveContainer sur l'appareil).",
   "iconURL": "https://github.com/Minchaka27/tempo-builds/raw/main/icon.png",
   "website": "https://github.com/Minchaka27/tempo-time-tracker",
   "tintColor": "#22b0e3",
@@ -16,6 +16,13 @@
       "iconURL": "https://github.com/Minchaka27/tempo-builds/raw/main/icon.png",
       "tintColor": "#22b0e3",
       "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2026-06-22",
+          "localizedDescription": "Release v1.0.1.",
+          "downloadURL": "https://github.com/Minchaka27/tempo-builds/releases/download/v1.0.1/TempoTracker-1.0.ipa",
+          "size": 6314201
+        },
         {
           "version": "1.0.0",
           "date": "2026-06-22",
