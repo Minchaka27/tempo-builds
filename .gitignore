@@ -1,0 +1,2 @@
+# Releases & binary artifacts are tracked here by `gh release` — do not commit .ipa files.
+*.ipa
