@@ -17,6 +17,13 @@
       "tintColor": "#22b0e3",
       "versions": [
         {
+          "version": "2026.07.12",
+          "date": "2026-07-12",
+          "localizedDescription": "Release v2026.07.12.\n\nSHA256: 775ab23f100ccc977764f40743e60f717014c5020fdc9aa319ed60c15b6ce095",
+          "downloadURL": "https://github.com/Minchaka27/tempo-builds/releases/download/v2026.07.12/TempoTracker-1.0.ipa",
+          "size": 12530444
+        },
+        {
           "version": "1.1.0",
           "date": "2026-06-23",
           "localizedDescription": "v1.1.0 \u2014 Durcissement qualit\u00e9 & s\u00e9curit\u00e9\n\nS\u00e9curit\u00e9 :\n\u2022 Email stock\u00e9 en Keychain (plus en clair)\n\u2022 Logout propre (session + email effac\u00e9s)\n\u2022 Messages d'erreur localis\u00e9s en fran\u00e7ais\n\u2022 Bouton Tempo d\u00e9sactiv\u00e9 sans ID worker configur\u00e9\n\u2022 Presse-papier DR expir\u00e9 apr\u00e8s 2 min (anti-Handoff iCloud)\n\u2022 Empreinte SHA256 du build publi\u00e9e (v\u00e9rification d'int\u00e9grit\u00e9)\n\nQualit\u00e9 :\n\u2022 Correction bug calendrier (mois affich\u00e9, totaux mensuels)\n\u2022 Refactorings (formatters partag\u00e9s, dayStatus batch\u00e9, factory AddEntry)\n\u2022 Accents fran\u00e7ais restaur\u00e9s\n\nTechnique :\n\u2022 Premi\u00e8re suite de tests unitaires (TimeUtils + WorkRules)\n\u2022 Swift 6 strict concurrency, z\u00e9ro escape hatch\n\nSHA256: 67a0932b09188205b8518c2fc4987a21b587f4b1db8702afebfbc520f0f47222",
